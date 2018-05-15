@@ -1,1 +1,1 @@
-Вирішення практичних завданнь по курсу CS50
+Solution to practical tasks CS50
